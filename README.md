@@ -7,5 +7,6 @@ Tomar un dato de una pagina web, para realizar un calculo aritmetico y finalment
 
 ### Features:
 - Web Scraping: Extracts numeric or textual data from a defined URL.
-- Arithmetic Calculations: Performs mathematical operations on the data obtained.}Export to Excel: Saves the results of calculations in an .xlsx file.
+- Arithmetic Calculations: Performs mathematical operations on the data obtained.
+- Export to Excel: Saves the results of calculations in an .xlsx file.
 - Automation: Simplifies the task of manually updating reports.
